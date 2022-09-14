@@ -5,6 +5,8 @@
 //  Created by HYORI SIM on 2022/09/14.
 //
 
+// 220914 아키텍쳐 작성
+
 import UIKit
 
 class ViewController: UIViewController {
